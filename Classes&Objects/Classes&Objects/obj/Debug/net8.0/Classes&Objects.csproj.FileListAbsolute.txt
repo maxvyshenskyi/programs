@@ -1,0 +1,14 @@
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\Classes&Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\Classes&Objects.AssemblyInfoInputs.cache
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\Classes&Objects.AssemblyInfo.cs
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\Classes&Objects.csproj.CoreCompileInputs.cache
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\bin\Debug\net8.0\Classes&Objects.exe
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\bin\Debug\net8.0\Classes&Objects.deps.json
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\bin\Debug\net8.0\Classes&Objects.runtimeconfig.json
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\bin\Debug\net8.0\Classes&Objects.dll
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\bin\Debug\net8.0\Classes&Objects.pdb
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\Classes&Objects.dll
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\refint\Classes&Objects.dll
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\Classes&Objects.pdb
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\Classes&Objects.genruntimeconfig.cache
+C:\Users\n-book\source\repos\Classes&Objects\Classes&Objects\obj\Debug\net8.0\ref\Classes&Objects.dll
