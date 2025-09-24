@@ -1,0 +1,11 @@
+C:\Users\n-book\source\repos\lab1oop\lab1oop\bin\Debug\lab2oop.exe.config
+C:\Users\n-book\source\repos\lab1oop\lab1oop\bin\Debug\lab2oop.exe
+C:\Users\n-book\source\repos\lab1oop\lab1oop\bin\Debug\lab2oop.pdb
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.csproj.AssemblyReference.cache
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.Properties.Resources.resources
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.csproj.GenerateResource.cache
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.csproj.CoreCompileInputs.cache
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.exe
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.pdb
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.exe.config
+C:\Users\n-book\source\repos\lab1oop\lab1oop\obj\Debug\lab2oop.Form1.resources
