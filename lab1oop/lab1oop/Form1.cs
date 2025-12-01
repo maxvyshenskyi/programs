@@ -29,8 +29,27 @@ namespace lab1oop
 
             if (selectedMotor != null)
             {
-                label1.Text = selectedMotor.GetInfo();
+                label1.Text = selectedMotor.GetName();
+                label2.Text = selectedMotor.GetType();
+                label3.Text = selectedMotor.GetPower();
+                label4.Text = selectedMotor.GetPhases();
+                label5.Text = selectedMotor.GetMass();
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
