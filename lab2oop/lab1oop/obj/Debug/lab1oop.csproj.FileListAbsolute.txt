@@ -19,3 +19,24 @@ C:\Users\User\Desktop\lab1oop\lab1oop\obj\Debug\lab1oop.csproj.GenerateResource.
 C:\Users\User\Desktop\lab1oop\lab1oop\obj\Debug\lab1oop.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\lab1oop\lab1oop\obj\Debug\lab1oop.exe
 C:\Users\User\Desktop\lab1oop\lab1oop\obj\Debug\lab1oop.pdb
+C:\Users\User\Desktop\lab2oop\lab1oop\bin\Debug\lab1oop.exe.config
+C:\Users\User\Desktop\lab2oop\lab1oop\bin\Debug\lab1oop.exe
+C:\Users\User\Desktop\lab2oop\lab1oop\bin\Debug\lab1oop.pdb
+C:\Users\User\Desktop\lab2oop\lab1oop\obj\Debug\lab1oop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab2oop\lab1oop\obj\Debug\lab1oop.Form1.resources
+C:\Users\User\Desktop\lab2oop\lab1oop\obj\Debug\lab1oop.Properties.Resources.resources
+C:\Users\User\Desktop\lab2oop\lab1oop\obj\Debug\lab1oop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\lab2oop\lab1oop\obj\Debug\lab1oop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab2oop\lab1oop\obj\Debug\lab1oop.exe
+C:\Users\User\Desktop\lab2oop\lab1oop\obj\Debug\lab1oop.pdb
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\bin\Debug\lab1oop.exe.config
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\bin\Debug\lab1oop.exe
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\bin\Debug\lab1oop.pdb
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.csproj.AssemblyReference.cache
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.exe.config
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.Form1.resources
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.Properties.Resources.resources
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.csproj.GenerateResource.cache
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.csproj.CoreCompileInputs.cache
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.exe
+C:\Users\n-book\Desktop\New Folder\lab2oop\lab1oop\obj\Debug\lab1oop.pdb
