@@ -1,0 +1,12 @@
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\bin\Debug\lab10oop.exe.config
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\bin\Debug\lab10oop.exe
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\bin\Debug\lab10oop.pdb
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.csproj.AssemblyReference.cache
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.Form1.resources
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.Properties.Resources.resources
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.csproj.GenerateResource.cache
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.csproj.CoreCompileInputs.cache
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.exe
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.pdb
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.exe.config
+C:\Users\n-book\Desktop\New Folder\lab10oop\lab10oop\obj\Debug\lab10oop.AboutForm.resources
